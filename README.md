@@ -1,9 +1,9 @@
-<div align=center>
+
+
+### 팀워크의 가치를 소중히 여기며
+### 적극적으로 배우는 프론트엔드 개발자 류현입니다 👋
+
 <br>
-팀워크의 가치를 소중히 여기며 <br>
-적극적으로 배우는 프론트엔드 개발자 류현입니다 👋
-<br>
-</div>
 <br>
 
 <div align=center>
@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
+
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisKlopp&show_icons=true&theme=radical)

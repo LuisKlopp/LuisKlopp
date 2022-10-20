@@ -4,7 +4,7 @@
 ### 적극적으로 배우는 프론트엔드 개발자 류현입니다 👋
 
 	
-개발블로그 : [Tistory](http://www.google.co.kr](https://jurgen-94.tistory.com/).
+개발블로그 : [Tistory](https://jurgen-94.tistory.com/).
 
 <br>
 <br>

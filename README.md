@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
 </div>
+
 
 
 <br>

@@ -7,7 +7,7 @@
 	
 <br>
 
-### 개발블로그 : [Age of Discovery](https://jurgen-94.tistory.com/).
+#### 개발블로그 : [Age of Discovery](https://jurgen-94.tistory.com/).
 
 </div>
 	

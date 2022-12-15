@@ -5,10 +5,13 @@
 ### 프로젝트의 기획부터 개발까지 모든 과정을 즐기는
 ### 프론트엔드 개발자 류현입니다 👋
 	
+<br>
+
+### 개발블로그 : [Age of Discovery](https://jurgen-94.tistory.com/).
+
 </div>
 	
-개발블로그 : [Tistory](https://jurgen-94.tistory.com/).
-
+	
 <br>
 <br>
 <div align=center>

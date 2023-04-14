@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-squre&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/RTK Query-764ABC?style=flat-squre&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-squre&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-squre&logo=Next.js&logoColor=white"/>
 </div>
 <br>
 <br>

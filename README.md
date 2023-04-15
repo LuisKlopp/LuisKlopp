@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-squre&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-squre&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-squre&logo=tailwindCss&logoColor=white">
+<img src="https://img.shields.io/badge/Emotion.js-DB7093?style=flat-squre&logo=Emotion.js&logoColor=white">
 </div>
 <br>
 
